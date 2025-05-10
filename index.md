@@ -7,3 +7,7 @@
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 I don't know what other image to put in welp
+
+``` javascript
+var myVar = "Hello, world!";
+```
