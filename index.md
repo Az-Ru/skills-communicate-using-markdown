@@ -11,3 +11,6 @@ I don't know what other image to put in welp
 ``` javascript
 var myVar = "Hello, world!";
 ```
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [x] Introduce myself to the world
